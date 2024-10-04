@@ -101,6 +101,8 @@ _For more examples, please refer to the [Sample Project](https://github.com/tolg
 
 - [ ] Add tests
 - [ ] Add samples
+- [ ] Add versioning
+- [ ] Add nuget package
 - [ ] Add Sql Server support
 
 See the [open issues](https://github.com/tolgacakir/nlock/issues) for a full list of proposed features (and known issues).
