@@ -150,3 +150,5 @@ Project Link: [https://github.com/tolgacakir/nlock](https://github.com/tolgacaki
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.Net-shield]: https://img.shields.io/badge/.NET-5C2D91?

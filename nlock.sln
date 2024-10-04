@@ -5,7 +5,14 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9AF9C979-6562-4D29-BA94-CD4CB9C4970D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlock", "src\nlock\nlock.csproj", "{639CAF19-BC42-4AD1-939B-7449D1D0DD1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nlock", "src\nlock\nlock.csproj", "{639CAF19-BC42-4AD1-939B-7449D1D0DD1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{406F8605-2FFD-4FD1-9D49-4828ACAFCB79}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
